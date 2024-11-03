@@ -1,5 +1,5 @@
 
-![Weather App Ekran Gmrüntüleri](output.gif)
+![Weather App Ekran Görüntüleri](output.gif)
 
 
 # Getting Started
