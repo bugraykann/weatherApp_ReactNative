@@ -1,5 +1,5 @@
 
-![Weather App Ekran Gmrüntüleri](gorsel-urlu.gif)
+![Weather App Ekran Gmrüntüleri](output.gif)
 
 
 # Getting Started
